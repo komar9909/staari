@@ -1,0 +1,2 @@
+# staari
+create new project
